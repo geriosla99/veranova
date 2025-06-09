@@ -15,10 +15,10 @@ app.use('/api/productos', productosRouter);
 app.get('/', (req, res) => {
   res.send('Backend funcionando');
 });
-const host = process.env.HOST || '0.0.0.0';
 
-app.listen(port, () => {
-  console.log(`Servidor corriendo en http://${host}:${port}/api-docs`);
+
+app.listen(port, '0.0.0.0', () => {
+  console.log(`Servidor corriendo en http://0.0.0.0:${port}/api-docs`);
 });
 
 // Ruta de documentación Swagger
