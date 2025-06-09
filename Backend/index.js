@@ -15,7 +15,7 @@ app.use('/api/productos', productosRouter);
 app.get('/', (req, res) => {
   res.send('Backend funcionando');
 });
-const host = process.env.HOST || 'localhost';
+const host = process.env.HOST || '0.0.0.0';
 
 app.listen(port, () => {
   console.log(`Servidor corriendo en http://${host}:${port}/api-docs`);
