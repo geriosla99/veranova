@@ -1,0 +1,20 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "VeraNova API",
+    "version": "1.0.0",
+    "description": "API para manejar productos de VeraNova"
+  },
+  "paths": {
+    "/api/productos": {
+      "get": {
+        "summary": "Obtener todos los productos",
+        "responses": {
+          "200": {
+            "description": "Lista de productos"
+          }
+        }
+      }
+    }
+  }
+}

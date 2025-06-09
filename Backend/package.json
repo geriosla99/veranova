@@ -1,0 +1,19 @@
+{
+  "name": "veranova-backend",
+  "version": "1.0.0",
+  "description": "Backend para VeraNova",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Geraldine Rios",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui": "^5.22.0",
+    "swagger-ui-express": "^5.0.1"
+  },
+  "keywords": []
+}

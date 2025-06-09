@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "nombre": "Guantes de látex",
+    "descripcion": "Guantes desechables para procedimientos estéticos.",
+    "precio": 1500,
+    "stock": 200,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Seguridad e Higiene"
+  },
+  {
+    "id": 2,
+    "nombre": "Alcohol antiséptico 70%",
+    "descripcion": "Solución antiséptica para desinfección de superficies y piel.",
+    "precio": 2800,
+    "stock": 100,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Higiene"
+  },
+  {
+    "id": 3,
+    "nombre": "Algodón en rollo",
+    "descripcion": "Rollo de algodón médico de alta calidad.",
+    "precio": 2500,
+    "stock": 80,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Higiene"
+  },
+  {
+    "id": 4,
+    "nombre": "Crema hidratante corporal",
+    "descripcion": "Crema para hidratación profunda de la piel.",
+    "precio": 8900,
+    "stock": 50,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Cuidado Corporal"
+  },
+  {
+    "id": 5,
+    "nombre": "Aceite de masaje relajante",
+    "descripcion": "Aceite con esencias naturales para masajes.",
+    "precio": 12000,
+    "stock": 45,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Terapia"
+  },
+  {
+    "id": 6,
+    "nombre": "Toallas desechables",
+    "descripcion": "Paquete de toallas para un solo uso.",
+    "precio": 9500,
+    "stock": 150,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Higiene"
+  },
+  {
+    "id": 7,
+    "nombre": "Mascarillas faciales",
+    "descripcion": "Mascarillas nutritivas para tratamientos faciales.",
+    "precio": 4800,
+    "stock": 100,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Estética Facial"
+  },
+  {
+    "id": 8,
+    "nombre": "Exfoliante corporal",
+    "descripcion": "Gel exfoliante con microgránulos para piel suave.",
+    "precio": 13500,
+    "stock": 40,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Cuidado Corporal"
+  },
+  {
+    "id": 9,
+    "nombre": "Gel conductor para electroterapia",
+    "descripcion": "Gel neutro para dispositivos de estética.",
+    "precio": 3000,
+    "stock": 70,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Electroestética"
+  },
+  {
+    "id": 10,
+    "nombre": "Esmaltes para uñas",
+    "descripcion": "Esmaltes de colores variados y de larga duración.",
+    "precio": 3500,
+    "stock": 120,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Manicure"
+  },
+  {
+    "id": 11,
+    "nombre": "Removedor de esmalte",
+    "descripcion": "Solución profesional para remover esmalte.",
+    "precio": 2400,
+    "stock": 60,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Manicure"
+  },
+  {
+    "id": 12,
+    "nombre": "Cera depilatoria",
+    "descripcion": "Cera caliente para depilación corporal.",
+    "precio": 8200,
+    "stock": 90,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Depilación"
+  },
+  {
+    "id": 13,
+    "nombre": "Espátulas de madera",
+    "descripcion": "Espátulas para aplicar cera depilatoria.",
+    "precio": 900,
+    "stock": 200,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Depilación"
+  },
+  {
+    "id": 14,
+    "nombre": "Shampoo profesional",
+    "descripcion": "Shampoo nutritivo para uso profesional.",
+    "precio": 7800,
+    "stock": 55,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Capilar"
+  },
+  {
+    "id": 15,
+    "nombre": "Acondicionador reparador",
+    "descripcion": "Acondicionador para cabello maltratado.",
+    "precio": 8000,
+    "stock": 50,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Capilar"
+  },
+  {
+    "id": 16,
+    "nombre": "Tinte para cabello",
+    "descripcion": "Coloración permanente de alta cobertura.",
+    "precio": 6900,
+    "stock": 110,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Capilar"
+  },
+  {
+    "id": 17,
+    "nombre": "Guantes de nitrilo",
+    "descripcion": "Guantes resistentes para tratamientos químicos.",
+    "precio": 1800,
+    "stock": 150,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Seguridad e Higiene"
+  },
+  {
+    "id": 18,
+    "nombre": "Limas de uñas",
+    "descripcion": "Limas profesionales para manicure y pedicure.",
+    "precio": 1200,
+    "stock": 200,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Manicure"
+  },
+  {
+    "id": 19,
+    "nombre": "Pulidoras de uñas",
+    "descripcion": "Herramientas para dar brillo y forma.",
+    "precio": 2200,
+    "stock": 100,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Manicure"
+  },
+  {
+    "id": 20,
+    "nombre": "Bata desechable",
+    "descripcion": "Bata para uso único en cabinas.",
+    "precio": 3800,
+    "stock": 80,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Seguridad e Higiene"
+  },
+  {
+    "id": 21,
+    "nombre": "Bandas de depilación",
+    "descripcion": "Bandas de tela no tejida para depilar.",
+    "precio": 2500,
+    "stock": 130,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Depilación"
+  },
+  {
+    "id": 22,
+    "nombre": "Mascarilla capilar nutritiva",
+    "descripcion": "Mascarilla intensa para hidratación profunda.",
+    "precio": 9500,
+    "stock": 60,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Capilar"
+  },
+  {
+    "id": 23,
+    "nombre": "Cepillo desenredante",
+    "descripcion": "Cepillo anti tirones para todo tipo de cabello.",
+    "precio": 4800,
+    "stock": 70,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Capilar"
+  },
+  {
+    "id": 24,
+    "nombre": "Paletas para mezcla de tinte",
+    "descripcion": "Recipientes plásticos para preparación de tintes.",
+    "precio": 1800,
+    "stock": 120,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Capilar"
+  },
+  {
+    "id": 25,
+    "nombre": "Brochas aplicadoras",
+    "descripcion": "Brochas resistentes para aplicar tratamientos.",
+    "precio": 1600,
+    "stock": 100,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Capilar"
+  },
+  {
+    "id": 26,
+    "nombre": "Antiséptico para manos",
+    "descripcion": "Gel antibacterial sin enjuague.",
+    "precio": 3200,
+    "stock": 150,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Higiene"
+  },
+  {
+    "id": 27,
+    "nombre": "Toallas húmedas antibacteriales",
+    "descripcion": "Paquete de toallitas desinfectantes.",
+    "precio": 3400,
+    "stock": 80,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Higiene"
+  },
+  {
+    "id": 28,
+    "nombre": "Serum facial con vitamina C",
+    "descripcion": "Sérum iluminador para el rostro.",
+    "precio": 13500,
+    "stock": 60,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Estética Facial"
+  },
+  {
+    "id": 29,
+    "nombre": "Contorno de ojos rejuvenecedor",
+    "descripcion": "Crema para líneas de expresión y ojeras.",
+    "precio": 14500,
+    "stock": 55,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Estética Facial"
+  },
+  {
+    "id": 30,
+    "nombre": "Crema anticelulítica",
+    "descripcion": "Crema reductora y tonificante.",
+    "precio": 16000,
+    "stock": 40,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Cuidado Corporal"
+  },
+  {
+    "id": 31,
+    "nombre": "Esponjas faciales",
+    "descripcion": "Esponjas suaves para limpieza diaria.",
+    "precio": 2800,
+    "stock": 90,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Estética Facial"
+  },
+  {
+    "id": 32,
+    "nombre": "Toallas de microfibra",
+    "descripcion": "Toallas lavables suaves para la piel.",
+    "precio": 7800,
+    "stock": 60,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Higiene"
+  },
+  {
+    "id": 33,
+    "nombre": "Removedor de puntos negros",
+    "descripcion": "Herramienta metálica para limpieza facial.",
+    "precio": 4200,
+    "stock": 75,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Estética Facial"
+  },
+  {
+    "id": 34,
+    "nombre": "Vaporizador facial portátil",
+    "descripcion": "Dispositivo para abrir poros antes de limpieza.",
+    "precio": 28900,
+    "stock": 30,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Estética Facial"
+  },
+  {
+    "id": 35,
+    "nombre": "Peeling químico suave",
+    "descripcion": "Ácidos suaves para exfoliación controlada.",
+    "precio": 19000,
+    "stock": 20,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Estética Facial"
+  },
+  {
+    "id": 36,
+    "nombre": "Ampollas capilares",
+    "descripcion": "Tratamientos concentrados para el cabello.",
+    "precio": 8500,
+    "stock": 65,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Capilar"
+  },
+  {
+    "id": 37,
+    "nombre": "Kit de brochas para maquillaje",
+    "descripcion": "Set profesional de 10 piezas.",
+    "precio": 19500,
+    "stock": 40,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Maquillaje"
+  },
+  {
+    "id": 38,
+    "nombre": "Esponjas para maquillaje",
+    "descripcion": "Esponjas tipo beauty blender.",
+    "precio": 5200,
+    "stock": 80,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Maquillaje"
+  },
+  {
+    "id": 39,
+    "nombre": "Papel camilla desechable",
+    "descripcion": "Rollo para cubrir camillas de tratamiento.",
+    "precio": 6800,
+    "stock": 55,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Seguridad e Higiene"
+  },
+  {
+    "id": 40,
+    "nombre": "Discos de algodón",
+    "descripcion": "Discos suaves para limpieza facial.",
+    "precio": 2500,
+    "stock": 100,
+    "img": "https://i.imgur.com/8faqIAx.jpeg",
+    "categoria": "Higiene"
+  }
+]
