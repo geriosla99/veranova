@@ -7,7 +7,7 @@ const Shop = ({ cart, setCart }) => {
 
   // Cargar productos desde la API al montar
   useEffect(() => {
-    fetch('http://localhost:4000/api/productos')
+    fetch('https://veranova.onrender.com/api/productos')
       .then(res => {
         if (!res.ok) throw new Error('Error al cargar productos');
         return res.json();
